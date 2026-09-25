@@ -1,0 +1,2 @@
+Biblioteca de algumas estruturas e algoritimos montadas por "mão propria" (recortes de codigo proprio ou alheio so que remontado de forma que eu possa entender o que foi escrito)
+Devo tentar posteriormente obedecer a algumas regras de padrão de codigo que foi ensinada em aulas de estrutura de dados e algoritimos.
