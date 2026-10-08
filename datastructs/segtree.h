@@ -21,7 +21,7 @@ struct segtree_sum {
             long long m = (l+r) / 2;
             build(2*p, l, m);
             build(2*p+1, m+1, r);
-            value = tree[2+p] + tree[2*p+1];
+            value = tree[2*p] + tree[2*p+1];
         }
         tree[p] = value;
     }
