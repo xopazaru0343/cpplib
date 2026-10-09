@@ -10,7 +10,8 @@
             "stopAtEntry": false, 
             "cwd": "${fileDirname}",
             "environment": [],
-            "externalConsole": true, 
+            "externalConsole": false, 
+            "miDebuggerPath": "/usr/bin/gdb",
             "MIMode": "gdb", 
             "setupCommands": [
                 {
